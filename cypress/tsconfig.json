@@ -1,9 +1,17 @@
 {
   "extends": "../tsconfig.json",
-    "compilerOptions": {
-      "target": "es5",
-      "lib": ["es5", "dom"],
-      "types": ["cypress", "node"]
-    },
-    "include": ["**/*.ts"]
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": ["ES2020", "DOM"],
+    "types": ["cypress", "node"],
+    "isolatedModules": false,
+    "noEmit": true,
+    "composite": true,
+    "jsx": "react-jsx",
+    "strict": true
+  },
+  "include": [
+    "src/**/*",
+    "cypress/**/*",
+  ]
 }
