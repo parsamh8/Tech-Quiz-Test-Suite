@@ -1,2 +1,66 @@
 # Tech-Quiz-Test-Suite
-A MERN stack web app for testing technical knowledge with random quizzes and instant scoring. Enhanced with Cypress for robust component and end-to-end testing, ensuring reliability and a seamless user experience.
+
+  ![License: MIT](https://img.shields.io/badge/License-MIT-violet.svg)
+  
+
+## Description
+
+The Tech Quiz Test Suite is a MERN stack web application designed for testing and improving technical knowledge through interactive quizzes. Users can take a 10-question quiz and receive instant scoring feedback. This project includes robust testing implemented with Cypress for end-to-end and component-level validation, ensuring reliability and performance across various use cases.
+
+
+## Table of Contents
+
+- [Tech-Quiz-Test-Suite](#tech-quiz-test-suite)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Tests](#tests)
+  - [License](#license)
+  - [Contributing](#contributing)
+
+
+## Installation
+
+Heres a [Link](https://drive.google.com/file/d/1JFyx8SiZYH4_h3Y2zlWLpD5L5URNYtdQ/view) to application demonstration.
+
+ - Node.js (v16 or later recommended)
+ - npm or yarn package manager
+ - MongoDB (local or cloud instance)
+ - run the test with Cypress package
+
+
+## Usage
+
+  Open the application in your browser using following steps:
+  1. Clone the repository and navigate to project repository
+  2. install all dependencies
+```
+npm run install
+```
+  3. Run the server locally with development mode.
+```
+npm run start:dev
+```
+  4. Run cypress dependencies while having the application server running and direct to cypress app to run the e2e testing.
+```
+npm run cypress
+```
+
+
+## Tests
+
+Application tested with noSQL MonogoDB Compass and Cypress.
+
+
+## License
+
+This project is licensed under the MIT License.
+
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests if you'd like to contribute!
+
+Buy me a coffee? ☕
+My contact info: parsamh8@gmail.com
