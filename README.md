@@ -46,6 +46,8 @@ npm run start:dev
 ```
 npm run cypress
 ```
+<img src="./client/src/assets/e2e.PNG">
+
 
 
 ## Tests
@@ -60,7 +62,8 @@ This project is licensed under the MIT License.
 
 ## Contributing
 
-Feel free to fork the repository and submit pull requests if you'd like to contribute!
+For questions or support, reach out via:
 
-Buy me a coffee? ☕
-My contact info: parsamh8@gmail.com
+Email: parsamh8@gmail.com<br> 
+GitHub: [parsamh](https://github.com/parsamh8)<br> 
+[X](https://x.com/ParsaMh)
