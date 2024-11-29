@@ -25,9 +25,9 @@ The Tech Quiz Test Suite is a MERN stack web application designed for testing an
 Heres a [Link](https://drive.google.com/file/d/1JFyx8SiZYH4_h3Y2zlWLpD5L5URNYtdQ/view) to application demonstration.
 
  - Node.js (v16 or later recommended)
- - npm or yarn package manager
+ - Npm or yarn package manager
  - MongoDB (local or cloud instance)
- - run the test with Cypress package
+ - Run the test with Cypress package
 
 
 ## Usage
