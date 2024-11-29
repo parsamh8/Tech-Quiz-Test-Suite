@@ -1,0 +1,17 @@
+[
+    {
+    "_id": "1",
+    "question": "Do you have any feelings?",
+    "answers": [{
+      "text": "yes",
+      "isCorrect": true
+    }]
+  },{
+    "_id": "2",
+    "question": "Do you know Me?",
+    "answers": [{
+      "text": "no",
+      "isCorrect": true
+    }]
+  }
+]
