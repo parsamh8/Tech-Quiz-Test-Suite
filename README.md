@@ -34,7 +34,7 @@ Heres a [Link](https://drive.google.com/file/d/1JFyx8SiZYH4_h3Y2zlWLpD5L5URNYtdQ
 
   Open the application in your browser using following steps:
   1. Clone the repository and navigate to project repository
-  2. install all dependencies
+  2. Install all dependencies
 ```
 npm run install
 ```
